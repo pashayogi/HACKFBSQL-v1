@@ -1,1 +1,2 @@
-# HACKFBSQL-v1
+#tools gg
+#jangan lupa mandi cuk
