@@ -17,7 +17,7 @@ def ketik(s):
 
 os.system('clear')
 print ("""\033[1;31m
-         WELCOME TO HACK FACEBOOK SQL
+         WELCOME TO LEANDRO ZONE
 \033[1;31m   ██__________██
 ___█▒█________█▒█
 __█▒███____███▒█
@@ -34,7 +34,7 @@ ____███▒▒▒▒████____█▒█
 ______██████________███
 _______█▒▒████______██
 _______█▒▒▒▒▒████__██
-_______█▒██▒██████▒█     MR.K7C8NG
+_______█▒██▒██████▒█     MR.LEANDRO
 _______█▒███▒▒▒█████
 _____█▒████▒▒▒▒████
 ______█▒███▒██████__
@@ -74,8 +74,8 @@ print (' ')
 print ("\033[1;32m Sedang Login FACEBOOK TARGET...")
 sleep(3)
 print (' ')
-print ("\033[1;33m Username : %s" % (a))
-print ("\033[1;33m Password : BISA DI UBAH SESUKA HATI KALIAN ")
+print ("\033[1;33m Username : LEANDRO
+print ("\033[1;33m Password : ZONEgold
 sleep(3)
 print (' ')
 print ("\033[1;32m Login Sukses! ")
@@ -99,8 +99,8 @@ z = open("pass.txt","w")
 
 pesan= """
 ---------------------
-Username: %s" % (a)) 
-Password: bisa di ubah
+Username: LEANDRO
+Password: ZONAgold
 ---------------------
 	"""
 z.write(pesan)
